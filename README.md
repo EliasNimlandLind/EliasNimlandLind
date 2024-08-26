@@ -1,5 +1,5 @@
 ## About me
-I am a studying system developer with focus on security.
+I am a studying system developmentm, foucusing on security.
 
 - Languages:
   - C#
