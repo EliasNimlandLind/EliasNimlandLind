@@ -1,5 +1,6 @@
 # Hello
 
+## About me
 I am a studying system developer with focus on security.
 
 - Languages:
@@ -10,6 +11,6 @@ I am a studying system developer with focus on security.
   - HTML
   - CSS
     
-- How to reach me:
+## You can reach me here
   - [LinkedIn](https://www.linkedin.com/in/elias-nimland-lind/)
   - elias.nimland.lind1@gmail.com
