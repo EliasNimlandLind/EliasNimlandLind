@@ -1,5 +1,3 @@
-# Hello
-
 ## About me
 I am a studying system developer with focus on security.
 
