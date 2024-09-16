@@ -9,7 +9,7 @@ I am a studying software development, foucusing on security.
   - HTML
   - CSS
  
-![Statistics stats](https://github-readme-stats.vercel.app/api?username=EliasNimlandLind&count_private=true&show icons=true)
+![Statistics stats](https://github-readme-stats.vercel.app/api?username=EliasNimlandLind&count_private=true&show_icons=true)
    
 ## You can reach me and find more information about me here
   - [LinkedIn](https://www.linkedin.com/in/elias-nimland-lind/)
