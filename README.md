@@ -11,7 +11,7 @@ I am a studying software development, foucusing on security.
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=EliasNimlandLind&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![Sreak](https://github-readme-streak-stats.herokuapp.com/?user=EliasNimlandLind&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EliasNimlandLind&theme=dark&hide_border=true)
 
 ![Utilized languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasNimlandLind&theme=dark&show_icons=true&hide_border=true&layout=compact)
   
