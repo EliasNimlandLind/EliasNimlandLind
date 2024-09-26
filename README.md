@@ -1,7 +1,7 @@
 ## About me
 I am a studying software development, foucusing on security.
 
-- Languages:
+Languages:
   - C#
   - SQL
   - Python
