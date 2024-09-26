@@ -16,5 +16,5 @@ I am a studying software development, foucusing on security.
 ![Utilized languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasNimlandLind&theme=dark&show_icons=true&hide_border=true&layout=compact)
   
 ## You can reach me and find more information about me here
-  -[LinkedIn](https://www.linkedin.com/in/elias-nimland-lind/)
+  - [LinkedIn](https://www.linkedin.com/in/elias-nimland-lind/)
   - elias.nimland.lind1@gmail.com
