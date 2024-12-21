@@ -5,7 +5,7 @@ Languages:
   - C#
   - SQL
   - Python
-  - JavaScript
+  - JavaScript and TypeScript 
   - HTML
   - CSS
 
