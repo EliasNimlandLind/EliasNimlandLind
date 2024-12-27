@@ -1,5 +1,5 @@
 ## About me
-I am a studying software development, foucusing on security. Proprietary softwares I have worked on includes [AIWhatIf](https://aiwhatif.nightingale.uni-mainz.de/).  
+I am a studying software development, foucusing on security. Proprietary softwares I have contributed to includes the AIWhatIf demo, developed as a part of the Nightingale project.
 
 Languages:
   - C#
