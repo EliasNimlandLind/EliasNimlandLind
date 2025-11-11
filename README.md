@@ -1,5 +1,5 @@
 ## About me
-I am a studying software development, foucusing on security. Proprietary softwares I have contributed to includes [AIWhatIf](https://aiwhatif2.nightingale.uni-mainz.de/), developed as a part of the Nightingale project.
+I have studied software development, foucusing on security. Proprietary softwares I have contributed to includes [AIWhatIf](https://aiwhatif2.nightingale.uni-mainz.de/), developed as a part of the Nightingale project.
 
 Languages:
   - C#
@@ -18,3 +18,4 @@ Languages:
 ## You can reach me and find more information about me here
   - [LinkedIn](https://www.linkedin.com/in/elias-nimland-lind/)
   - elias.nimland.lind1@gmail.com
+
