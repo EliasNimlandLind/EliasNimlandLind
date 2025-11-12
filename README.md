@@ -1,5 +1,6 @@
 ## About me
-I have studied full stack software development, foucusing on security. Proprietary softwares I have contributed to includes [AIWhatIf](https://aiwhatif2.nightingale.uni-mainz.de/), developed as a part of the Nightingale project and utilises artificial intelligence to generate recommendations to enhance the health of the user. Technocal expertise, e.g. custom softwares, is provided to local organisations, such as XP Ängelholm. Code associated with a specific organisation can accessed through the corresponding organisation on GitHub. 
+I have studied full stack software development, foucusing on security. Proprietary softwares I have contributed to includes [AIWhatIf](https://aiwhatif2.nightingale.uni-mainz.de/), developed as a part of the Nightingale project and utilises artificial intelligence to generate recommendations to enhance the health of the user. Technocal expertise, e.g. custom softwares, is provided to local non-profit organisations, such as XP Ängelholm. Code associated with a specific organisation can accessed through the corresponding organisation on GitHub, e.g. [XP XP Ängelholm](https://github.com/XP-Angelholm).
+
 ## Used languages
   - C#
   - SQL
@@ -17,6 +18,7 @@ I have studied full stack software development, foucusing on security. Proprieta
 ## You can reach me and find more information about me here
   - [LinkedIn](https://www.linkedin.com/in/elias-nimland-lind/)
   - elias.nimland.lind1@gmail.com
+
 
 
 
