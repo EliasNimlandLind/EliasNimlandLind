@@ -15,9 +15,10 @@ I have studied full stack software development, foucusing on security. Proprieta
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EliasNimlandLind&theme=dark&hide_border=true)
   
-## Contact and more information
+## Contact and additional information
   - [LinkedIn](https://www.linkedin.com/in/elias-nimland-lind/)
   - elias.nimland.lind1@gmail.com
+
 
 
 
